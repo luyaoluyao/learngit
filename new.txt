@@ -1,1 +1,2 @@
 这是一个新的文件.信息
+add a new info to check push origin master
