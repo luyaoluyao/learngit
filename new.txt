@@ -6,3 +6,4 @@ rebase info =====   2
 
 rebase info ===== 3
 
+现在在hahah分支上添加一条消息
