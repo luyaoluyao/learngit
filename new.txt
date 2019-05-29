@@ -7,6 +7,17 @@ add a new info in new dir
 222
 333
 444
+555
+
+
+
+add a new info to test rebase
+hahhahahahahhahahhahahahahahah
+______________________________
+
+add more info to test rebase
+nnnnnnnnnnnnnnnnnnnnnnnnnnnn
+++++++++++++++++++++++++++++
 6666
 
 其他分支提交，落后远程2个提交
