@@ -2,3 +2,7 @@
 rebase info =====  1
 
 rebase info =====   2
+
+
+rebase info ===== 3
+
