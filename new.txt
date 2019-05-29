@@ -1,3 +1,4 @@
 这是一个新的文件.信息
 rebase info =====  1
 
+rebase info =====   2
