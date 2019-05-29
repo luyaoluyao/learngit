@@ -1,13 +1,3 @@
 这是一个新的文件.信息
-add a new info to check push origin master 
-git分支测试
-add a new dir to test git
-add a new info in new dir
-111111
-222
-333
-444
-6666
-
-其他分支提交，落后远程2个提交
+rebase info =====  1
 
